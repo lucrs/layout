@@ -1,0 +1,477 @@
+.p-l-5 {
+  margin-left: 5px;
+}
+.color-b{
+  color: #000;
+}
+
+.reset-btn{
+  background: none;
+  border: none;
+  width: 50%;
+  font-size: 2em;
+}
+
+.navbar-header{
+  width: 100%;
+}
+
+.container-btn{
+  max-width: 60px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.card{
+  position: relative;
+  border: 1px solid #cecece;
+  margin-bottom: 18px;
+  margin-top: 8px;
+  .cover{
+    background-repeat: no-repeat;
+    height: 110px;
+    background-position: center center;
+    margin-bottom: 50px;
+
+    &.bg1{
+      background: url("../../../images/bgtec.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+
+    }
+
+    &.bg2{
+      background: url("../../../images/50percent.png");
+      background-size: 95%;
+    }
+    &.bg3{
+      background: url("../../../images/fam.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+    &.bg4{
+      background: url("../../../images/datejulh.png");
+      background-size: 20%;
+      background-repeat: no-repeat;
+      margin-left: 2px;
+    }
+    &.bg5{
+      background: url("../../../images/ideia.jpg");
+      background-size: 100%;
+      background-repeat: no-repeat;
+    }
+    &.bg6{
+      background: url("../../../images/support.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+  }
+  .avatar{
+    top: 50px;
+    padding-left: 12px;
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    img{
+      border-radius: 50%;
+      height: 100px;
+      width: 100px;
+    }
+    .name1{
+      top: 66px;
+      left: 117px;
+      position: absolute;
+      color: #bfbfbf;
+      border-bottom: 1px solid #c6c6c6;
+      padding-bottom: 11px;
+      width: 100%;
+      display: block;
+    }
+    .name2{
+      top: 82px;
+      left: 117px;
+      position: absolute;
+      color: #bfbfbf;
+      font-size: 0.9em;
+      padding-bottom: 8px;
+      width: 100%;
+      display: block;
+    }
+
+    .star{
+      top: 70px;
+      position: relative;
+      color: #ffe041;
+      font-size: 20px;
+      right: 18px;
+    }
+
+  }
+  .card-cont{
+    padding: 6px;
+    h4{
+      font-size: 15px;
+      color: #a7a7a7;
+    }
+    .sub-cont{
+      .social-m{
+        padding-right: 10px;
+        padding-top: 0px;
+        .glip-re{
+          padding-top: 110px;
+        }
+        span{
+          margin:8px;
+          font-size: 22px;
+          color: #20b4ff;
+        }
+        .mens-so{
+          padding-top: 5px;
+          font-size: 11px;
+          float: right;
+          padding-left: 6px;
+          cursor: pointer;
+        }
+      }
+    }
+  }
+}
+.pd-lj{
+  padding: 10px;
+  border-bottom: 1px solid #c6c6c6;
+  .loj-vi{
+    h2{
+      font-size: 20px;
+      padding-left: 10px;
+    }
+
+  }
+
+  .contant-lj{
+
+    h4{
+      font-size: 14px;
+      margin-top: 4px;
+      padding-left: 15px;
+      color: gray;
+    }
+
+    .card-i{
+      margin:8px;
+      font-size: 22px;
+      color: #20b4ff;
+    }
+    p{
+      padding-left: 5px;
+      font-size: 14px;
+      color: gray;
+    }
+  }
+  .social-m2{
+    span {
+      margin: 10px;
+      font-size: 22px;
+      color: #20b4ff;
+    }
+
+  }
+}
+.social-m3{
+  padding-top: 50px;
+
+  .confirm{
+    font-size: 18px;
+    padding-top: 125px;
+    color: #20b4ff;
+  }
+  .confirm-pr{
+    padding-top: 6px;
+    font-size: 12px;
+    float: right;
+    padding-right: 6px;
+    cursor: pointer;
+  }
+
+}
+.hang-cont{
+  padding: 5px;
+  h3{
+    position: relative;
+    top: 17px;
+    font-size: 20px;
+    right: 27px;
+  }
+  h4{
+    font-size: 13px;
+    position: relative;
+    top: -10px;
+    color: #a7a7a7;
+    right: 28px;
+  }
+  .social-m5{
+    padding-left: 90px;
+    .rel{
+      font-size: 14px;
+
+      color: #20b4ff;
+    }
+    .hrs{
+      color: gray;
+      padding-top: 1px;
+      font-size: 14px;
+      float: right;
+      padding-right: 6px;
+      cursor: pointer;
+    }
+  }
+  .sub-cont{
+    .social-m{
+      padding-top: 10px;
+      .glip-re{
+        padding-top: 110px;
+      }
+      span{
+        margin:8px;
+        font-size: 22px;
+        color: #20b4ff;
+      }
+      .mens-so{
+        padding-top: 5px;
+        font-size: 11px;
+        float: right;
+        padding-left: 6px;
+        cursor: pointer;
+      }
+    }
+  }
+}
+.social-m4{
+  position: relative;
+  top: 27px;
+  left: -15px;
+  clear: both;
+  span {
+    margin: 10px;
+    font-size: 22px;
+    color: #20b4ff;
+  }
+}
+.avatar1{
+  top: 50px;
+  padding-left: 12px;
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+  }
+  .name1{
+    top: 66px;
+    left: 115px;
+    position: absolute;
+    color: #bfbfbf;
+    border-bottom: 1px solid #c6c6c6;
+    padding-bottom: 11px;
+    width: 100%;
+    display: block;
+  }
+  .name2{
+    top: 82px;
+    left: 117px;
+    position: absolute;
+    color: #bfbfbf;
+    font-size: 0.9em;
+    padding-bottom: 8px;
+    width: 100%;
+    display: block;
+  }
+
+  .send{
+    top: 65px;
+    position: relative;
+    color: #20b4ff;
+    font-size: 20px;
+    right: 3px;
+  }
+  .send-ma{
+    padding-top: 8px;
+    font-size: 9px;
+    float: right;
+    padding-left: 2px;
+    cursor: pointer;
+    color: #20b4ff;
+  }
+}
+.btn-in{
+  position: relative;
+  right: 10px;
+}
+.avatar2{
+  top: 50px;
+  padding-left: 12px;
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+  }
+  .name1{
+    top: 66px;
+    left: 115px;
+    position: absolute;
+    color: #bfbfbf;
+    border-bottom: 1px solid #c6c6c6;
+    padding-bottom: 11px;
+    width: 100%;
+    display: block;
+  }
+  .name2{
+    top: 82px;
+    left: 117px;
+    position: absolute;
+    color: #bfbfbf;
+    font-size: 0.9em;
+    padding-bottom: 8px;
+    width: 100%;
+    display: block;
+  }
+
+  .send{
+    top: 65px;
+    position: relative;
+    color: #20b4ff;
+    font-size: 20px;
+    right: -25px;
+  }
+  .send-sup{
+    padding-top: 8px;
+    font-size: 9px;
+    float: right;
+    padding-left: 3px;
+    cursor: pointer;
+    color: #20b4ff;
+
+  }
+}
+.social-sup{
+  color: #20b4ff;
+  font-size: 22px;
+  position: relative;
+  left: 15px;
+}
+
+
+.jum{
+  padding-top: 80px;
+}
+.p-0{
+  padding: 0;
+}
+.m-0{
+  margin: 0;
+}
+.p-1{
+  padding: 0;
+  padding-left: 10px;
+}
+.m-1{
+  margin: 0;
+}
+
+.clearfix{
+  clear: both;
+}
+.row{
+  margin-right: -15px;
+  margin-left: -15px;
+  margin-bottom: -20px;
+}
+.sidenav {
+  list-style: none;
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: white;
+  overflow-x: hidden;
+  padding-top: 60px;
+  transition: 0.5s;
+  .avatar3{
+    background:  url("../../../images/matt-bloom-circle.png") ,
+    url("../../../images/bgmenu.jpg");
+    width: 100%;
+    height: 161px;
+    background-repeat: no-repeat;
+    background-position: left 9px,center, 0 0;
+    background-size: 100px,280px;
+    .name1{
+      top: 170px;
+      left: 14px;
+      position: absolute;
+      color: black;
+      padding-bottom: 11px;
+      width: 100%;
+      display: block;
+    }
+    .name2{
+      top: 189px;
+      left: 14px;
+      position: absolute;
+      color: black;
+      font-size: 0.9em;
+      padding-bottom: 8px;
+      width: 100%;
+      display: block;
+    }
+  }
+  .bg-sc{
+    font-size: 12px;
+    padding-top: 3px;
+    padding-left: 5px;
+    background-color: gray;
+    height: 30px;
+    .pont{
+      color: #ffe420;
+    }
+    .upgr{
+      color: white;
+      padding-right: 3px;
+    }
+  }
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 16px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+  border-bottom: 1px dotted #a2a2a2;
+}
+i{
+  padding-right: 30px;
+}
+.sidenav a:hover, .offcanvas a:focus{
+  color: black;
+}
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 15px;
+  margin-left: 50px;
+}
+#main {
+  transition: margin-left .5s;
+  padding: 20px;
+}
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
